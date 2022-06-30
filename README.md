@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 By manipulating the Spotify Python API and YouTube Big Data v3 this script converts a playlist from Spoitfy to Youtube
 
 # How it works
