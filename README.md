@@ -1,5 +1,5 @@
-# Spotify playlist to YouTube playlist converter
-Python script converting a spotify playlist to youtube playlist.
+#Introduction
+By manipulating the Spotify Python API and YouTube Big Data v3 this script converts a playlist from Spoitfy to Youtube
 
 # How it works
 The pl-trackid-excel.py script will create a request to Spotify server to extract your playlist's songs, the output it to a .csv file you named using Pandas.
